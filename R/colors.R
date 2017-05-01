@@ -90,3 +90,4 @@ print.palette <- function(x, ...) {
 #'
 #' @section Warning:
 #' As of v0.1 I do not think that the internet reference I found accurately reflects the color of the Main Title.
+#'
